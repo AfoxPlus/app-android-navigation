@@ -1,4 +1,4 @@
-package com.afoxplus.module.routers
+package com.afoxplus.navigation.routers
 
 import kotlinx.serialization.Serializable
 

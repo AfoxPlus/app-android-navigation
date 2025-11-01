@@ -1,6 +1,6 @@
-package com.afoxplus.module.provider
+package com.afoxplus.navigation.provider
 
-import com.afoxplus.module.entry.NavigationEntry
+import com.afoxplus.navigation.entry.NavigationEntry
 import javax.inject.Inject
 
 class NavigationProvider @Inject constructor(

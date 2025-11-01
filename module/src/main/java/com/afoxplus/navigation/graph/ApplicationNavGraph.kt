@@ -1,10 +1,10 @@
-package com.afoxplus.module.graph
+package com.afoxplus.navigation.graph
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.rememberNavController
-import com.afoxplus.module.handler.NavigationHandler
+import com.afoxplus.navigation.handler.NavigationHandler
 
 @Composable
 fun ApplicationNavGraph(modifier: Modifier = Modifier, navigationHandler: NavigationHandler) {
